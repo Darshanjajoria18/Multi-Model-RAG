@@ -77,8 +77,7 @@ if index is not None:
 ---
 
 ## 👨‍💻 Author
-📌 **[Your Name]**  
-📌 **[Your Contact]**  
-📌 **[Your GitHub](https://github.com/your-username)**  
+📌 **Darshan kumar jajoria**   
+📌 **[Your GitHub]([https://github.com/your-username](https://github.com/Darshanjajoria18))**  
 
 ---
